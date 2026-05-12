@@ -36,7 +36,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("Membrane Performance Prediction")
-st.markdown("<h4 style='text-align: center; color: gray;'>Prediction of Rejection & Permeability</h4>", unsafe_allow_html=True)
+st.markdown("<h4 style='text-align: center; color: gray;'>The page design is from Nano Banana Pro</h4>", unsafe_allow_html=True)
 
 
 # ==========================================
